@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iWatched</string>
+    <string name="izlediklerim">İzlediklerim</string>
+    <string name="filmler">Filmler</string>
+    <string name="diziler">Diziler</string>
+    <string name="filmAdi">Film Adı</string>
+    <string name="izlemeTarih">İzlediğim Tarih</string>
+</resources>
